@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Maçanta porta esq/diant Ranger",
+      "price": "400"
+    },
+    {
+      "id": 2,
+      "name": "Botão vidro Elétrico dianteiro Focus",
+      "price": "120.89"
+    },
+    {
+      "id": 3,
+      "name": "Motor Sigma 2.0 16V parcial",
+      "price": "7520.89"
+    },
+    {
+      "id": 4,
+      "name": "Guarnição vidro Porat dianteira New Fiesta",
+      "price": "123.11"
+    },  
+    {
+      "id": 5,
+      "name": "Filtro de ar F350 diesel cummins 4bt",
+      "price": "120.89"
+    }      
+    
+  ]
+}
